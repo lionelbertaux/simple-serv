@@ -1,0 +1,15 @@
+{
+  "name": "simple-serv",
+  "version": "1.0.0",
+  "description": "Simple server for callbacks",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "heroku"
+  ],
+  "author": "lionel-bertaux",
+  "license": "none"
+}
